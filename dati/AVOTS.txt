@@ -1,0 +1,6 @@
+Datu kopas nosaukums: Automobile (1985) / imports-85
+Avots: UCI Machine Learning Repository
+Saite: https://archive.ics.uci.edu/dataset/10/automobile
+Lejupielādes datums: 25.11.2026.
+Oriģinālais datu fails: imports-85.data
+Piezīme: Oriģinālais fails ir saglabāts nemainīts; tas ir komatatdalīts fails ar .data paplašinājumu.
